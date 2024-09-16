@@ -1,3 +1,6 @@
+
+<div background-color="#696969">
+
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/88901633?s=400&u=3394253f37f925dcf9dace73c942baf0f35f7e21&v=4"  />
 </div>
@@ -20,7 +23,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prachalitparate13.Prachalitparate13&"  />
 </div>
 
 ###
@@ -91,4 +94,5 @@
   <img src="https://streak-stats.demolab.com?user=Prachalitparate13&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+</div>
 ###

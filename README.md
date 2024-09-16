@@ -23,12 +23,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prachalitparate13.Prachalitparate13&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prachalitparate13.Prachalitparate13"  />
 </div>
 
 ###
 
-<h1 align="center">Hi there 👋. I'm Prachalit Parate</h1>
+<h1 align="center">Hi there 👋!!! I'm Prachalit Parate</h1>
 
 ###
 

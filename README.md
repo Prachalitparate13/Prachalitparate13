@@ -59,7 +59,7 @@ In my free time, I enjoy reading manga and keeping up with the latest trends in 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/deviconicons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/deviconicons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -86,7 +86,7 @@ In my free time, I enjoy reading manga and keeping up with the latest trends in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original-wordmark.svg" height="40" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" height="40" alt="bitbucket logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />

@@ -32,11 +32,9 @@
 
 ###
 
-<h4 align="left">🔭A proficient Associate IT Developer currently contributing to the Order Management and Licensing team. My role involves managing both backend and frontend development for various applications, ensuring seamless and defect-free code deployment.
+<h4 align="left">🔭I am a proficient SDE1 currently contributing to the Order Management and Licensing team. My role involves managing both backend and frontend development for various applications, ensuring seamless and defect-free code deployment. In addition to my expertise in technologies like React, Java, Spring Boot, PLSQL, and Tailwind CSS, I have recently expanded my skill set by working with Salesforce.
 
-I hold a Master’s in Industrial Mathematics and Computer Applications from Fergusson College, and a Bachelor’s in Mathematics. My technical expertise spans a diverse range of technologies, including React, Java, Spring Boot, PLSQL, and Tailwind CSS.
-
-I have worked on innovative projects such as Verbasync, a platform for audio transcription and translation, and machine learning models like the Medical Insurance Cost Prediction system and a Crop Recommendation System. I have also delved into security-focused projects, including Geo-spatial Image Encryption using cryptography and Video Encryption through advanced mathematical algorithms.
+I hold a Master’s in Industrial Mathematics and Computer Applications from Fergusson College, and a Bachelor’s in Mathematics. My technical expertise spans a diverse range of technologies, including React, Java, Spring Boot, PLSQL, Tailwind CSS, and now Salesforce. I have worked on innovative projects such as Verbasync, a platform for audio transcription and translation, and machine learning models like the Medical Insurance Cost Prediction system and a Crop Recommendation System. I have also delved into security-focused projects, including Geo-spatial Image Encryption using cryptography and Video Encryption through advanced mathematical algorithms.
 
 Professionally, I have interned at KernelPI, where I worked on web scraping and analytics, and at IE Capital, where I developed a successful algo-trading script. My continuous learning includes courses in GoLang, Spring Boot, and Spring Cloud, as well as certifications in Data Science, Machine Learning, and Data Visualization.
 
